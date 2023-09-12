@@ -57,7 +57,10 @@ def handle_userinput(user_question):
 
 
 def main():
-    load_dotenv()
+    env:
+        OPENAI_API_KEY: ${{secrets.OPENAI_API_KEY}}
+        HUGGINGFACEHUB_API_KEY: ${{secret.HUGGINGFACEHUB_API_KEY}}
+    load_dotenv()    
     #st.write("OPENAI_API_KEY:", st.secrets["OPENAI_API_KEY"])
     #st.write("HUGGINGFACEHUB_API_KEY:", st.secrets["HUGGINGFACEHUB_API_KEY"])
     st.set_page_config(page_title="PDF Chatbot Guru")
