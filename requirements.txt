@@ -13,8 +13,6 @@ asttokens==2.0.5
 async-timeout==4.0.3
 attrs==23.1.0
 backcall==0.2.0
-backtesting==0.3.3
-beautifulsoup4==4.12.2
 blinker==1.6.2
 bokeh==2.4.3
 cachetools==5.3.1
@@ -85,7 +83,6 @@ nvidia-cusparse-cu11==11.7.4.91
 nvidia-nccl-cu11==2.14.3
 nvidia-nvtx-cu11==11.7.91
 openai==0.28.0
-openssl==3.0.10
 outcome==1.2.0
 packaging==23.0
 pandas==2.0.3
