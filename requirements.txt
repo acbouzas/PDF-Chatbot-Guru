@@ -1,5 +1,5 @@
+python-dotenv==1.0.0
 streamlit==1.26.0
-dotenv==1.0.0
 PyPDF2==1.26.0
 langchain==0.7.0
 
