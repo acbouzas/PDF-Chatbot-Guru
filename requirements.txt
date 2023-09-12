@@ -18,8 +18,6 @@ backtesting==0.3.3
 beautifulsoup4==4.12.2
 blinker==1.6.2
 bokeh==2.4.3
-bs4==0.0.1
-bzip2==1.0.8
 ca-certificates==2023.7.22
 cachetools==5.3.1
 certifi==2023.7.22
