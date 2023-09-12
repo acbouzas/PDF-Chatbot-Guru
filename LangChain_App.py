@@ -59,8 +59,8 @@ def handle_userinput(user_question):
 def main():
 
     #load_dotenv()    
-    "OPENAI_API_KEY": st.secrets["OPENAI_API_KEY"]
-    "HUGGINGFACEHUB_API_KEY": st.secrets["HUGGINGFACEHUB_API_KEY"]
+    OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+    HUGGINGFACEHUB_API_KEY = st.secrets["HUGGINGFACEHUB_API_KEY"]
     st.set_page_config(page_title="PDF Chatbot Guru")
     if "conversation" not in st.session_state:
         st.session_state.conversation =  None 
