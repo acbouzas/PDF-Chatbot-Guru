@@ -169,4 +169,3 @@ xyzservices==2023.7.0
 yarl==1.9.2
 yfinance==0.2.28
 zipp==3.16.2
-zlib==1.2.13
