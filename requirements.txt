@@ -168,6 +168,5 @@ wsproto==1.2.0
 xyzservices==2023.7.0
 yarl==1.9.2
 yfinance==0.2.28
-zeromq==4.3.4
 zipp==3.16.2
 zlib==1.2.13
