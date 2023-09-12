@@ -57,7 +57,6 @@ jsonschema-specifications==2023.7.1
 kiwisolver==1.4.5
 langchain==0.0.286
 langsmith==0.0.35
-ld_impl_linux-64==2.38
 libblas==3.9.0
 libcblas==3.9.0
 libffi==3.4.4
