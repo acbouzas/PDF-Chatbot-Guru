@@ -4,7 +4,7 @@ Upload your PDFs and interact with the PDF Chatbot Guru to extract any info you 
 ![image](https://github.com/acbouzas/PDF-Chatbot-Guru/blob/main/images/App's%20Screenshot.png)
 
 ## Introduction
-Dealing with PDF documents containing a wealth of information can be challenging. This application aims to simplify the process by providing a chatbot interface that allows you to ask questions about your PDF documents. It leverages natural language processing (NLP) and machine learning models toextracts text from PDFs, processes the content, and provides answers to your inquiries. 
+Dealing with PDF documents containing a wealth of information can be challenging. This application aims to simplify the process by providing a chatbot that answers your inquiries about the uploaded PDF documents. It leverages natural language processing (NLP) and machine learning models to extract  text, process the content, and provide answers. 
 
 ## Example
 
